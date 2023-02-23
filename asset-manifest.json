@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Coin-Toss-Game/static/css/main.4c774062.chunk.css",
+    "main.js": "/Coin-Toss-Game/static/js/main.987e055d.chunk.js",
+    "main.js.map": "/Coin-Toss-Game/static/js/main.987e055d.chunk.js.map",
+    "runtime-main.js": "/Coin-Toss-Game/static/js/runtime-main.4608912c.js",
+    "runtime-main.js.map": "/Coin-Toss-Game/static/js/runtime-main.4608912c.js.map",
+    "static/js/2.7ad38430.chunk.js": "/Coin-Toss-Game/static/js/2.7ad38430.chunk.js",
+    "static/js/2.7ad38430.chunk.js.map": "/Coin-Toss-Game/static/js/2.7ad38430.chunk.js.map",
+    "index.html": "/Coin-Toss-Game/index.html",
+    "static/css/main.4c774062.chunk.css.map": "/Coin-Toss-Game/static/css/main.4c774062.chunk.css.map",
+    "static/js/2.7ad38430.chunk.js.LICENSE.txt": "/Coin-Toss-Game/static/js/2.7ad38430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4608912c.js",
+    "static/js/2.7ad38430.chunk.js",
+    "static/css/main.4c774062.chunk.css",
+    "static/js/main.987e055d.chunk.js"
+  ]
+}
